@@ -1,0 +1,19 @@
+.odd:nth-child(odd) {
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, DejaVu Sans;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.odd.three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
