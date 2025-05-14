@@ -1,0 +1,13 @@
+.bw-white {
+    background-color: black;
+    color: white;
+}
+
+.yw {
+    background-color: yellow;
+}
+
+.type {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
